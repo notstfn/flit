@@ -1,0 +1,11 @@
+*
+
+!/.gitignore
+!*.[hc]
+!*.go
+!go.sum
+!go.mod
+!README.md
+!LICENSE
+!Makefile
+!*/
