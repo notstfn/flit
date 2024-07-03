@@ -9,3 +9,5 @@
 !LICENSE
 !Makefile
 !*/
+
+!external/libgit2
